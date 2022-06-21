@@ -1,0 +1,10 @@
+numpy==1.19.5
+scipy==1.5.4
+networkx==2.5.1
+lapjv==1.3.12
+matplotlib==3.3.4
+scikit-learn==0.24.2
+autograd==1.4
+torch==1.10.2
+pymanopt==1.0.0
+fast-pagerank==0.0.4
